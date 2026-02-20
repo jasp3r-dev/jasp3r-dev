@@ -1,4 +1,4 @@
-## About me
+## About Me
 
 - 🧑‍💻 I'm Jeremy Yankson
 - 🔭 I’m currently working on rebuilding my developing skills from scratch-->
