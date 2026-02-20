@@ -20,12 +20,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+
 ## My GitHub Streak and Contribution graph
 
 <p align="left" display="flex">
-  <img src="https://streak-stats.demolab.com/?user=jasp3r-dev&theme=react" width="40%" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasp3r-dev&theme=react-dark" width="50%" />
+   <a href="https://github.com/jasp3r-dev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jasp3r-dev&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jasp3r-dev's github-readme-stats"/></a>
+  <a href="https://github.com/jasp3r-dev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jasp3r-dev&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="jasp3r-dev's github-readme-streak-stats"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasp3r-dev&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5" width="48%" />
 </p>
+
 
 ## Featured Projects 
 - [Artchive](https://the-ar-tchive.vercel.app/)
+
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jasp3r-dev/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
