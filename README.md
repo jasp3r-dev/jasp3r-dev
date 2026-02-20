@@ -26,3 +26,6 @@
   <img src="https://streak-stats.demolab.com/?user=jasp3r-dev&theme=react" width="40%" height="160"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasp3r-dev&theme=react-dark" width="50%" />
 </p>
+
+## Featured Projects 
+- [Artchive](https://the-ar-tchive.vercel.app/)
