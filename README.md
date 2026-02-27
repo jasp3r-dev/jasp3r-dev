@@ -37,5 +37,5 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cittykitten/Cittykitten/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jasp3r-dev/jasp3r-dev/output/snake-dark.svg" />
 </p>
