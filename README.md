@@ -34,8 +34,8 @@
 - [Artchive](https://the-ar-tchive.vercel.app/)
 
 
-## 🐍 GitHub Contribution Snake
+<!-- ## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jasp3r-dev/jasp3r-dev/output/snake-dark.svg" />
-</p>
+</p> --!>
