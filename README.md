@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on rebuilding my developing skills from scratch
 - 🌱 I’m currently learning **JavaScript & Python**
 - 💬 Ask me about **operating systems, UI/UX designing and editing**
-- 📫 Reach me via: [Email](mailto:delaliyankson@gmail.com)
+- 📫 Reach me via: [Email](mailto:delaliyankson@gmail.com) | [WhatsApp](wa.me/23325618460)
 
 
 ## My Tech Stack...
