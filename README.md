@@ -10,7 +10,7 @@
 ## My Tech Stack...
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> -->
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" width="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" width="40"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40"/>
