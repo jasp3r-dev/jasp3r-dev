@@ -1,6 +1,6 @@
 ## About Me
 
-- 🧑‍💻 I'm Jeremy Yankson
+- 🧑‍💻 I'm Jeremy Yankson 
 - 🔭 I’m currently working on rebuilding my developing skills from scratch
 - 🌱 I’m currently learning **JavaScript & Python**
 - 💬 Ask me about **operating systems, UI/UX designing and editing**
